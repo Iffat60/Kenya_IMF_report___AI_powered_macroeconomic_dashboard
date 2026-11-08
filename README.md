@@ -63,3 +63,5 @@ Cached model outputs are not included, so a full run makes API calls. Each stage
 ## Licence
 
 This project is released under the MIT Licence. See `LICENSE`.
+
+The IMF report used in this project is a public document published by the International Monetary Fund. It is not covered by this licence and is not included in this repository.
